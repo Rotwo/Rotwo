@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="border-radius: 50%;" src="https://github.com/Rotwo/Rotwo/blob/main/assets/Rotwo%20Logo%20Github.png?raw=true" width="200" />
+  <img src="https://github.com/Rotwo/Rotwo/blob/main/assets/logo_v2.png?raw=true" width="200" />
   <h1 align="center">Rotwo</h1>
   <div align="center">
     <a href="https://github.com/rotwo" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Rotwo-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
