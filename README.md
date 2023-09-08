@@ -6,7 +6,7 @@
     <a href="https://github.com/rotwo?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Rotwo?color=4C1&logo=github"></a>
     <a href="https://github.com/rotwo/rotwo" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Rotwo/Rotwo?label=Profile%20update&style=fflat-square"></a>
   </div>
-  <p align="center">FullStack developer · Desktop & Mobile Developer</p>
+  <p align="center">FullStack, mobile & desktop developer</p>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rotwo&show_icons=true&theme=tokyonight" />
