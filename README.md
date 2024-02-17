@@ -15,8 +15,8 @@
 </p>
 <p align="center">
   <a href="https://github.com/rotwo?tab=repositories&language=csharp" target="_blank"><img alt="Csharp" src="https://img.shields.io/badge/Csharp-FFD43B?style=rounded-square&logo=csharp&logoColor=white&color=purple"></a>
-  <a href="https://github.com/rotwo?tab=repositories&language=html" target="_blank"><img alt="Html" src="https://img.shields.io/badge/Html-FFD43B?style=rounded-square&logo=html&logoColor=white&color=orange"></a>
-  <a href="https://github.com/rotwo?tab=repositories&language=css" target="_blank"><img alt="Css" src="https://img.shields.io/badge/Css-FFD43B?style=rounded-square&logo=css&logoColor=white&color=blue"></a>
+  <a href="https://github.com/rotwo?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/Html-FFD43B?style=rounded-square&logo=html&logoColor=white&color=orange"></a>
+  <a href="https://github.com/rotwo?tab=repositories&language=css" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/Css-FFD43B?style=rounded-square&logo=css&logoColor=white&color=blue"></a>
   <a href="https://github.com/rotwo?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-FFD43B?style=rounded-square&logo=javascript&logoColor=white&color=yellow"></a>
   <a href="https://github.com/rotwo?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFD43B?style=rounded-square&logo=typescript&logoColor=white&color=blue"></a>
   <a href="https://github.com/rotwo?tab=repositories&language=javascript" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-FFD43B?style=rounded-square&logo=react&logoColor=white&color=blue"></a>
