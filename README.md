@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://github.com/Rotwo/Rotwo/blob/main/assets/Rotwo-Logo-v3-bg.png?raw=true" width="200" />
-  <h1 align="center">Rotwo</h1>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://github.com/Rotwo/Rotwo/blob/main/assets/Rotwo-Logo-v3-bg.png?raw=true" />
+   <h3 align="center">Hey 👋! I'm Rotwo 👨🏻‍💻</h3>
+</p>
+
   <p align="center">
     <a href="https://github.com/rotwo" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Rotwo-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://github.com/rotwo?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Rotwo?color=4C1&logo=github"></a>
