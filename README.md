@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/Rotwo/Rotwo/blob/main/assets/Rotwo-Logo-v3-bg.png?raw=true" />
+   <img align="center" width="200" src="https://github.com/Rotwo/.github/blob/main/profile/logo.png" />
    <h3 align="center">Hey 👋! I'm Rotwo 👨🏻‍💻</h3>
 </p>
 
@@ -8,16 +8,9 @@
     <a href="https://github.com/rotwo?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Rotwo?color=4C1&logo=github"></a>
     <a href="https://github.com/rotwo/rotwo" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Rotwo/Rotwo?label=Profile%20update&style=fflat-square"></a>
   </p>
-  </div>
-  <p align="center">FullStack, mobile & desktop developer</p>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rotwo&show_icons=true&theme=tokyonight" />
-  <li align="center">Currently working on developing new websites and games.</li>
-  <li align="center">Contact me: <a href="Support.Rotwo@proton.me">Support.Rotwo@proton.me</a></li>
-</p>
-<p align="center">
+  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,mongodb,react,linux,cs,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,mongodb,react,linux,figma,git,github" />
   </a>
-</p>
+<p align="center">FullStack, mobile & desktop developer</p>
+
